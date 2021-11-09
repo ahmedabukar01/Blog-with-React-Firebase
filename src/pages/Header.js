@@ -1,8 +1,9 @@
 const Header = () =>{
+
     return (
         <div className="header">
             <div className="logo">
-                MIniBlog
+                MiniBlog
             </div>
             <div className="navbar">
                 <a href="/">Home</a>
